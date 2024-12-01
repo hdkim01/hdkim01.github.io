@@ -118,7 +118,8 @@ author:
   bio              : |
     M.S. Student
     School of computing, KAIST
-  location         : "N1 523, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea, 34141"
+  location         : |
+    N1 523, 291 Daehak-ro, Yuseong-gu, Daejeon, Korea, 34141
   email            :
   links:
     - label: "Email"
