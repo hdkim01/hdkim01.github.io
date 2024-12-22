@@ -21,4 +21,3 @@ My research interests revolve around generating and manipulating various 2D or 3
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
