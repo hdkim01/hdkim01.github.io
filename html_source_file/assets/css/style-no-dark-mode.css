@@ -58,13 +58,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img {
-  border-radius: 0; /* 이미지를 네모로 변경 */
-  width: 200px;     /* 고정된 가로 크기 */
-  height: 200px;    /* 고정된 세로 크기 */
-  padding: 0;       /* 여백 제거 */
-  object-fit: cover; /* 이미지 비율 유지하며 크기 조정 */
-}
+.image.avatar img { border-radius: 100%; width: 45%; padding: 20px; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
 
