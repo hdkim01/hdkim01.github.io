@@ -21,8 +21,8 @@ twitter: https://x.com/Hwidong_Kim
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/hwidong.jpg
-favicon: ./assets/img/russian.png
-favicon_dark: ./assets/img/russian.png
+favicon: ./assets/img/my_favicon.png
+favicon_dark: ./assets/img/my_favicon.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
