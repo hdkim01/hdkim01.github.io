@@ -4,8 +4,12 @@ layout: homepage
 
 ## About Me
 
+<p>
 I am Hwidong Kim, a first-year M.S. student at <a href="https://kaist.ac.kr/kr/">KAIST</a>, advised by <a href="https://sites.google.com/view/tkkim/">Prof. Tae-Kyun (T-K) Kim</a>.
+</p>
+<p>
 My research interests revolve around generating and manipulating various 2D or 3D visual contents. Recently, I have been focusing on understanding and simulating 3D human-object interactions (HOI) by leveraging rich diffusion priors.
+</p>
 
 ## News
 
