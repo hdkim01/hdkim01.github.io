@@ -1,9 +1,9 @@
 main:
 
   - title: "DAFT-GAN: Dual Affine Transformation Generative Adversarial Network for Text-Guided Image Inpainting"
-    authors: Jihoon Lee*, Yunhong Min*, Hwidong Kim*, Sangtae Ahn, (* equal contributions)
-    conference_short: ACM Multimedia 2024
-    #conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    authors: Jihoon Lee*, Yunhong Min*, <b>Hwidong Kim*</b>, Sangtae Ahn, (* equal contributions)
+    #conference_short: ACM Mm
+    conference: ACM Multimedia 2024
     pdf: ./assets/files/DAFT-GAN.pdf
     code: https://github.com/hdkim01/DAFT-GAN
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
