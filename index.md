@@ -29,4 +29,5 @@ My research interests lie in video generation, with a particular emphasis on pro
 
 ## Teaching
 
+- Teaching Assistant, Artificial Intelligence and Machine Learning (CS570), KAIST, Spring 2026
 - Teaching Assistant, Introduction to Deep Learning (CS371), KAIST, Spring 2025
