@@ -55,8 +55,3 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
-  - projects/
-
-# Keep these files in the output even though they're excluded from Jekyll processing
-keep_files:
-  - projects
