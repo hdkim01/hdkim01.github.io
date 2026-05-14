@@ -8,7 +8,7 @@ layout: homepage
 I am Hwidong Kim, a second-year M.S. student at <a href="https://kaist.ac.kr/kr/">KAIST</a>, advised by <a href="https://sites.google.com/view/tkkim/">Prof. Tae-Kyun (T-K) Kim</a>.
 </p>
 <p>
-My research interests lie in video generation, with a particular emphasis on producing physically plausible videos that faithfully reflect real-world physical dynamics. Recently, I have been focusing on extending this to more generic scenarios, leveraging explicit physics simulators or implicit physics-informed priors, such as those in vision-language models (VLMs).
+My research interests lie in video generation, with a focus on producing physically plausible videos that faithfully reflect real-world physical dynamics. Recently, I have been working toward more generic scenarios, leveraging explicit physics simulators or implicit priors from vision-language models (VLMs).
 </p>
 
 ## News
